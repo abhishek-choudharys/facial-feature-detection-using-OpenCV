@@ -1,0 +1,2 @@
+This is a facial feature detection pyhton program that can detect eyes, smile and the entire face using haar cascades and openCV.
+The recognised features are shown using rectangles.
