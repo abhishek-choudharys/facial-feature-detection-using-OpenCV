@@ -1,0 +1,2 @@
+The program works fine without the use of any files in this additional code folder.
+Feel free to skip this.
