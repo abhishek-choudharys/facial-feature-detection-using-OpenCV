@@ -5,4 +5,4 @@ Detection of face, smile and eyes in real time using open CV and pyhton.
 Detected features will be shown enclosed in rectangles of separate colors.
 Red: eyes|
 Green: smile|
-Blue: face
+Blue: face.
