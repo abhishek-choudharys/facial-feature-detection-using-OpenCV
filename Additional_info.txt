@@ -6,3 +6,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 Haar-like features are digital image features used in object recognition. ... A Haar-like feature considers adjacent rectangular regions at a specific location in a detection window, sums up the pixel intensities in each region and calculates the difference between these sums.
 
 Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of ​​ features proposed by Paul Viola and Michael Jones in their paper "Rapid Object Detection using a Boosted Cascade of Simple Features" in 2001.
+
+A Haar Cascade is basically a classifier which is used to detect the object for which it has been trained for, from the source.
+
+The Haar Cascade is trained by superimposing the positive image over a set of negative images. The training is generally done on a server and on various stages. Better results are obtained by using high quality images and increasing the amount of stages for which the classifier is trained. One can also used predefined Haar Cascades which are available on Github.
